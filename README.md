@@ -1,4 +1,4 @@
-GenerarListaRuts.py: 
+## GenerarListaRuts.py: ##
 	Genera un archivo lleno de RUTS al azar y los copia al clipboard
 	Uso:
 		$ python GenerarListaRuts.py -n <CANTIDAD>
